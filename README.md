@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvaraaju
-- 👀 I’m interested in just coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open Source projects
+- 👀 I’m interested in just coding/development
+- 🌱 I’m learning Python
+- 💞️ I’m would love to collaborate on Open Source projects
 - 📫 How to reach me = yuvaraaju at gmail.com
 
 <!---
