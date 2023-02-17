@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yuvaraaju
 - 👀 I’m interested in just coding/development
-- 🌱 I’m learning Python
+- 🌱 I’m learning Python and C#
 - 💞️ I’m would love to collaborate on Open Source projects
+- ✨ I've 20+ years of leadership experience in IT and Professional Services industry
 - 📫 How to reach me = yuvaraaju at gmail.com
 
 <!---
